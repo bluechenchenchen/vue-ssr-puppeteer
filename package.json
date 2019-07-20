@@ -10,7 +10,10 @@
   },
   "dependencies": {
     "core-js": "^2.6.5",
-    "vue": "^2.6.10"
+    "vue": "^2.6.10",
+    "puppeteer": "^1.4.0",
+    "koa": "^2.7.0",
+    "koa-static": "^5.0.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.9.0",
